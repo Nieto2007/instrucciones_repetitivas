@@ -1,0 +1,2 @@
+# instrucciones_repetitivas
+PROGRAMA PARA CALCULAR LA SUMA DE LOS PRIMEROS 100 NÚMEROS
